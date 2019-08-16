@@ -12,6 +12,7 @@ $ top
 ### 메모리 사용량
 ```
 $ free -mh
+$ watch -d -n 0.1 free -mh
 ```
 
 ### 프로세스 검색
